@@ -49,7 +49,14 @@ This project demonstrates practical use of:
 ---
 ## 📁 Project Structure
 
-![Project Structure](project_structure.png)
+Pizza-Sales-SQL-Project/
+│
+├── analysis_queries.sql
+├── orders.csv
+├── order_details.csv
+├── pizzas.csv
+├── pizza_types.csv
+└── pizzahut.sql
 
 ## 📊 Key Business Insights Extracted
 
