@@ -47,8 +47,10 @@ This project demonstrates practical use of:
 - Revenue & Category Analysis  
 
 ---
-## 📁 Project Structure
 
+ ## 📁 Project Structure
+
+```
 Pizza-Sales-SQL-Project/
 │
 ├── analysis_queries.sql
@@ -57,6 +59,7 @@ Pizza-Sales-SQL-Project/
 ├── pizzas.csv
 ├── pizza_types.csv
 └── pizzahut.sql
+```
 
 ## 📊 Key Business Insights Extracted
 
@@ -69,4 +72,4 @@ Pizza-Sales-SQL-Project/
 
 ---
 
-## 📂 Project Structure
+
